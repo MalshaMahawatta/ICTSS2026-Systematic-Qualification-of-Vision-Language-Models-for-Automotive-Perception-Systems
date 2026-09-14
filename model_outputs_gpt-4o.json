@@ -1,0 +1,4106 @@
+[
+  {
+    "id": "1.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "1039.jpg",
+    "raw_output": "car, car, car, traffic light green"
+  },
+  {
+    "id": "1053.jpg",
+    "raw_output": "car, car, car, traffic light green"
+  },
+  {
+    "id": "1078.jpg",
+    "raw_output": "car, car, car, traffic light green, traffic light green, traffic light green"
+  },
+  {
+    "id": "1110.jpg",
+    "raw_output": "car, car, car, car, traffic light green"
+  },
+  {
+    "id": "1137.jpg",
+    "raw_output": "car, car, car, car, car, car"
+  },
+  {
+    "id": "1138.jpg",
+    "raw_output": "car, car, car, car, car, bus"
+  },
+  {
+    "id": "1183.jpg",
+    "raw_output": "car, car, car, car, car, traffic light red"
+  },
+  {
+    "id": "1207.jpg",
+    "raw_output": "car, car, car, traffic light red"
+  },
+  {
+    "id": "1208.jpg",
+    "raw_output": "car, car, car, traffic light green, traffic light green, traffic light red"
+  },
+  {
+    "id": "1228.jpg",
+    "raw_output": "car, car, car, traffic light green, traffic light green"
+  },
+  {
+    "id": "1250.jpg",
+    "raw_output": "car, car, car, car, traffic light green, traffic light green"
+  },
+  {
+    "id": "126.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "1265.jpg",
+    "raw_output": "car, car, traffic light green, traffic light green"
+  },
+  {
+    "id": "1284.jpg",
+    "raw_output": "car, car, car, car, car, car"
+  },
+  {
+    "id": "1288.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "1300.jpg",
+    "raw_output": "car, car, car, car"
+  },
+  {
+    "id": "1324.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "1342.jpg",
+    "raw_output": "car, car, car, car, truck, truck"
+  },
+  {
+    "id": "1346.jpg",
+    "raw_output": "car, car, car, truck, truck"
+  },
+  {
+    "id": "1369.jpg",
+    "raw_output": "car, car, car, truck"
+  },
+  {
+    "id": "1385.jpg",
+    "raw_output": "car, car, truck, truck"
+  },
+  {
+    "id": "1394.jpg",
+    "raw_output": "car, car, car, truck"
+  },
+  {
+    "id": "1436.jpg",
+    "raw_output": "car, car, car, car, car, car, truck"
+  },
+  {
+    "id": "1468.jpg",
+    "raw_output": "car, car, car, car, truck"
+  },
+  {
+    "id": "1488.jpg",
+    "raw_output": "truck, motorcycle, car, car, car"
+  },
+  {
+    "id": "1495.jpg",
+    "raw_output": "motorcycle, truck, car, car, car, car, car"
+  },
+  {
+    "id": "1520.jpg",
+    "raw_output": "car, truck, truck, bicycle"
+  },
+  {
+    "id": "1532.jpg",
+    "raw_output": "car, truck, traffic light red"
+  },
+  {
+    "id": "1557.jpg",
+    "raw_output": "car, car, truck, pedestrian"
+  },
+  {
+    "id": "1584.jpg",
+    "raw_output": "car, car, truck, bicycle, traffic light red"
+  },
+  {
+    "id": "1598.jpg",
+    "raw_output": "car, car, truck, bicycle"
+  },
+  {
+    "id": "1607.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "1618.jpg",
+    "raw_output": "car, truck, car, car, traffic light red, car"
+  },
+  {
+    "id": "1647.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "1656.jpg",
+    "raw_output": "car, car, truck, traffic light red"
+  },
+  {
+    "id": "1696.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "170.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "1719.jpg",
+    "raw_output": "car, truck, traffic light green"
+  },
+  {
+    "id": "1745.jpg",
+    "raw_output": "car, car, car, truck, traffic light green"
+  },
+  {
+    "id": "1785.jpg",
+    "raw_output": "car, car, car, car, car, traffic light green"
+  },
+  {
+    "id": "1793.jpg",
+    "raw_output": "car, car, car, car, traffic light green"
+  },
+  {
+    "id": "1804.jpg",
+    "raw_output": "car, car, car, traffic light green"
+  },
+  {
+    "id": "1817.jpg",
+    "raw_output": "car, car, car, traffic light green"
+  },
+  {
+    "id": "1827.jpg",
+    "raw_output": "car, car, traffic light green"
+  },
+  {
+    "id": "1848.jpg",
+    "raw_output": "car, car, car, car, car, car, bus"
+  },
+  {
+    "id": "186.jpg",
+    "raw_output": "truck, car, traffic light red, traffic light red, traffic light red"
+  },
+  {
+    "id": "1867.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "1883.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "1894.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "1917.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "1930.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "194.jpg",
+    "raw_output": "truck, truck, traffic light red"
+  },
+  {
+    "id": "1949.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "1966.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "1986.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "1994.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "2009.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2034.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2044.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "2047.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2078.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "2103.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2111.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "212.jpg",
+    "raw_output": "truck, car, car, traffic light red"
+  },
+  {
+    "id": "2135.jpg",
+    "raw_output": "car, van"
+  },
+  {
+    "id": "2168.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "219.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "2190.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "2201.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2259.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2265.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "229.jpg",
+    "raw_output": "car, car, car, car, bus"
+  },
+  {
+    "id": "2304.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "2388.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "2406.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2416.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2422.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2453.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2458.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "250.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "2532.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "2555.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "2623.jpg",
+    "raw_output": "car, car, car, car, car, car, car"
+  },
+  {
+    "id": "2633.jpg",
+    "raw_output": "car, car, car, truck"
+  },
+  {
+    "id": "2672.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "2685.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "269.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "2696.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "2711.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "2726.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2739.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2762.jpg",
+    "raw_output": "car, bus"
+  },
+  {
+    "id": "2781.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "2793.jpg",
+    "raw_output": "bus, car, car"
+  },
+  {
+    "id": "2808.jpg",
+    "raw_output": "bus, car, car, car, truck"
+  },
+  {
+    "id": "2820.jpg",
+    "raw_output": "car, car, car, truck"
+  },
+  {
+    "id": "2830.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "2845.jpg",
+    "raw_output": "truck, car, car, pedestrian"
+  },
+  {
+    "id": "2847.jpg",
+    "raw_output": "truck, car, pedestrian"
+  },
+  {
+    "id": "2862.jpg",
+    "raw_output": "car, car, truck, truck, pedestrian"
+  },
+  {
+    "id": "2883.jpg",
+    "raw_output": "truck, truck, car, pedestrian"
+  },
+  {
+    "id": "2922.jpg",
+    "raw_output": "truck, truck, pedestrian"
+  },
+  {
+    "id": "2929.jpg",
+    "raw_output": "truck, truck, pedestrian"
+  },
+  {
+    "id": "2941.jpg",
+    "raw_output": "car, car, truck, pedestrian"
+  },
+  {
+    "id": "2959.jpg",
+    "raw_output": "car, truck, pedestrian"
+  },
+  {
+    "id": "296.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "2997.jpg",
+    "raw_output": "bus, pedestrian"
+  },
+  {
+    "id": "3017.jpg",
+    "raw_output": "bus, truck, pedestrian"
+  },
+  {
+    "id": "3044.jpg",
+    "raw_output": "truck, truck, truck, car, pedestrian"
+  },
+  {
+    "id": "3070.jpg",
+    "raw_output": "truck, truck, car, pedestrian"
+  },
+  {
+    "id": "3081.jpg",
+    "raw_output": "truck, truck, car, pedestrian"
+  },
+  {
+    "id": "3086.jpg",
+    "raw_output": "car, truck, pedestrian"
+  },
+  {
+    "id": "3095.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "3107.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "3122.jpg",
+    "raw_output": "car, car, car, truck"
+  },
+  {
+    "id": "3135.jpg",
+    "raw_output": "car, car, truck, truck, speed bump"
+  },
+  {
+    "id": "3150.jpg",
+    "raw_output": "car, car, truck, pedestrian"
+  },
+  {
+    "id": "3168.jpg",
+    "raw_output": "car, pedestrian"
+  },
+  {
+    "id": "3184.jpg",
+    "raw_output": "car, car, truck, pedestrian"
+  },
+  {
+    "id": "3212.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "322.jpg",
+    "raw_output": "car, traffic light green"
+  },
+  {
+    "id": "3235.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3250.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3268.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3284.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3305.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "3322.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "3325.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "3346.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3381.jpg",
+    "raw_output": "bus, car"
+  },
+  {
+    "id": "3395.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "3418.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3435.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "3449.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "3468.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "348.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "3503.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3518.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3536.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "3487.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "3551.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "3570.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "358.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "3593.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3607.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3628.jpg",
+    "raw_output": "car, bicycle"
+  },
+  {
+    "id": "3648.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3671.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3688.jpg",
+    "raw_output": "car, car, bicycle"
+  },
+  {
+    "id": "3711.jpg",
+    "raw_output": "car, car, bicycle"
+  },
+  {
+    "id": "3756.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "376.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3763.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3768.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3776.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3797.jpg",
+    "raw_output": "truck, truck, truck"
+  },
+  {
+    "id": "3816.jpg",
+    "raw_output": "truck, truck, truck"
+  },
+  {
+    "id": "3839.jpg",
+    "raw_output": "truck, truck, truck"
+  },
+  {
+    "id": "3867.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3886.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "3897.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3905.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3922.jpg",
+    "raw_output": "truck, pedestrian, car, car"
+  },
+  {
+    "id": "3934.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "3939.jpg",
+    "raw_output": "car, pedestrian"
+  },
+  {
+    "id": "3950.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3969.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3982.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "3995.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "406.jpg",
+    "raw_output": "car, car, car, traffic light red"
+  },
+  {
+    "id": "4124.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4125.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4130.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4172.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "4180.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "421.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "4212.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4221.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4233.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4244.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "4258.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4267.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "4280.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4289.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4307.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "433.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "4348.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "4354.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "4359.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "4365.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4412.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "448.jpg",
+    "raw_output": "car, car, car, traffic light red"
+  },
+  {
+    "id": "4490.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4504.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4517.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "4529.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4545.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "4555.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4567.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4575.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4576.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4587.jpg",
+    "raw_output": "truck, bicycle, bicycle"
+  },
+  {
+    "id": "4593.jpg",
+    "raw_output": "bicycle, bicycle"
+  },
+  {
+    "id": "460.jpg",
+    "raw_output": "car, car, car, traffic light red, traffic light red"
+  },
+  {
+    "id": "4607.jpg",
+    "raw_output": "bicycle"
+  },
+  {
+    "id": "4622.jpg",
+    "raw_output": "bicycle"
+  },
+  {
+    "id": "4626.jpg",
+    "raw_output": "bicycle"
+  },
+  {
+    "id": "4627.jpg",
+    "raw_output": "bicycle"
+  },
+  {
+    "id": "4690.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4705.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4717.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4731.jpg",
+    "raw_output": "bicycle"
+  },
+  {
+    "id": "4926.jpg",
+    "raw_output": "truck, traffic light red"
+  },
+  {
+    "id": "4936.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4949.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "496.jpg",
+    "raw_output": "car, car, truck, traffic light red"
+  },
+  {
+    "id": "4962.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "4973.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "4992.jpg",
+    "raw_output": "truck, pedestrian"
+  },
+  {
+    "id": "5002.jpg",
+    "raw_output": "truck, pedestrian"
+  },
+  {
+    "id": "5017.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "5034.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "5051.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "5067.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "5084.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "5092.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5100.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "511.jpg",
+    "raw_output": "car, car, truck, traffic light red, traffic light red"
+  },
+  {
+    "id": "5126.jpg",
+    "raw_output": "truck, car, traffic light green"
+  },
+  {
+    "id": "5139.jpg",
+    "raw_output": "truck, car, traffic light green"
+  },
+  {
+    "id": "5146.jpg",
+    "raw_output": "truck, car, car, traffic light green"
+  },
+  {
+    "id": "5148.jpg",
+    "raw_output": "truck, car, car, traffic light red"
+  },
+  {
+    "id": "5160.jpg",
+    "raw_output": "car, car, car, truck, motorcycle"
+  },
+  {
+    "id": "5178.jpg",
+    "raw_output": "car, car, car, motorcycle"
+  },
+  {
+    "id": "5193.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "5217.jpg",
+    "raw_output": "car, bicycle, traffic light red"
+  },
+  {
+    "id": "5234.jpg",
+    "raw_output": "car, motorcycle, truck"
+  },
+  {
+    "id": "5253.jpg",
+    "raw_output": "motorcycle, truck"
+  },
+  {
+    "id": "528.jpg",
+    "raw_output": "car, car, truck, traffic light red, traffic light red"
+  },
+  {
+    "id": "5318.jpg",
+    "raw_output": "car, car, traffic light green"
+  },
+  {
+    "id": "5344.jpg",
+    "raw_output": "car, car, motorcycle, traffic light green"
+  },
+  {
+    "id": "5364.jpg",
+    "raw_output": "car, car, traffic light green"
+  },
+  {
+    "id": "537.jpg",
+    "raw_output": "car, car, truck, truck, traffic light red, traffic light red, traffic light red"
+  },
+  {
+    "id": "5372.jpg",
+    "raw_output": "car, car, traffic light green"
+  },
+  {
+    "id": "5384.jpg",
+    "raw_output": "car, car, traffic light green"
+  },
+  {
+    "id": "5401.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "5421.jpg",
+    "raw_output": "pedestrian"
+  },
+  {
+    "id": "5441.jpg",
+    "raw_output": "pedestrian"
+  },
+  {
+    "id": "545.jpg",
+    "raw_output": "car, car, truck, traffic light red"
+  },
+  {
+    "id": "5462.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5475.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5506.jpg",
+    "raw_output": "car, car, bus, traffic light green"
+  },
+  {
+    "id": "5516.jpg",
+    "raw_output": "car, bus, traffic light yellow"
+  },
+  {
+    "id": "5530.jpg",
+    "raw_output": "car, bus"
+  },
+  {
+    "id": "5545.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "5562.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "5607.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "5629.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "5645.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "5667.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "5685.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "570.jpg",
+    "raw_output": "car, car, car, car, truck, traffic light red"
+  },
+  {
+    "id": "5703.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "5721.jpg",
+    "raw_output": "car, pedestrian"
+  },
+  {
+    "id": "5746.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "5763.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "5793.jpg",
+    "raw_output": "<empty output>"
+  },
+  {
+    "id": "5864.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "5867.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "5885.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5904.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "5920.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "593.jpg",
+    "raw_output": "car, car, car, car, truck, traffic light red, traffic light red"
+  },
+  {
+    "id": "5936.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "5950.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "5963.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "5994.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6022.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6041.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6066.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "6076.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "6091.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "6104.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "6120.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "6125.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "6131.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "6133.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "6153.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6164.jpg",
+    "raw_output": "car, motorcycle"
+  },
+  {
+    "id": "6167.jpg",
+    "raw_output": "motorcycle, car"
+  },
+  {
+    "id": "6176.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "6286.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "63.jpg",
+    "raw_output": "car, car, car, car, car, car, car, truck, truck, pedestrian, pedestrian"
+  },
+  {
+    "id": "6302.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6313.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "6316.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "6320.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "6323.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "6336.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "6351.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "6362.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "6371.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "6389.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "6397.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "6406.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "6418.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "6425.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6431.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6444.jpg",
+    "raw_output": "car, bicycle, bus, truck"
+  },
+  {
+    "id": "6451.jpg",
+    "raw_output": "motorcycle, motorcycle, car, bus, truck"
+  },
+  {
+    "id": "6461.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "6469.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "6475.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "6477.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "6484.jpg",
+    "raw_output": "car, truck, truck"
+  },
+  {
+    "id": "6492.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "6505.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "6514.jpg",
+    "raw_output": "truck, truck, truck"
+  },
+  {
+    "id": "6522.jpg",
+    "raw_output": "truck, truck, truck"
+  },
+  {
+    "id": "6537.jpg",
+    "raw_output": "truck, truck, truck"
+  },
+  {
+    "id": "6543.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "6549.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "6558.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "6620.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "6627.jpg",
+    "raw_output": "truck, car, car"
+  },
+  {
+    "id": "6634.jpg",
+    "raw_output": "truck, car, car, truck"
+  },
+  {
+    "id": "6642.jpg",
+    "raw_output": "truck, truck, car"
+  },
+  {
+    "id": "6650.jpg",
+    "raw_output": "truck, car, car, truck"
+  },
+  {
+    "id": "6662.jpg",
+    "raw_output": "truck, truck, car"
+  },
+  {
+    "id": "6671.jpg",
+    "raw_output": "truck, truck, truck, car, pedestrian"
+  },
+  {
+    "id": "6678.jpg",
+    "raw_output": "truck, truck, truck, car"
+  },
+  {
+    "id": "6682.jpg",
+    "raw_output": "truck, truck, car, pedestrian"
+  },
+  {
+    "id": "6684.jpg",
+    "raw_output": "truck, truck, car"
+  },
+  {
+    "id": "6689.jpg",
+    "raw_output": "truck, pedestrian, pedestrian, car, car, truck"
+  },
+  {
+    "id": "6691.jpg",
+    "raw_output": "truck, truck, car"
+  },
+  {
+    "id": "6692.jpg",
+    "raw_output": "truck, truck, car"
+  },
+  {
+    "id": "6698.jpg",
+    "raw_output": "truck, truck, car, car, pedestrian"
+  },
+  {
+    "id": "6703.jpg",
+    "raw_output": "truck, truck, car, pedestrian"
+  },
+  {
+    "id": "6711.jpg",
+    "raw_output": "truck, truck, car, car"
+  },
+  {
+    "id": "6730.jpg",
+    "raw_output": "truck, truck, car, car"
+  },
+  {
+    "id": "6739.jpg",
+    "raw_output": "car, truck, truck"
+  },
+  {
+    "id": "6755.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "6764.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "6776.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "6786.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "6795.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6808.jpg",
+    "raw_output": "pedestrian"
+  },
+  {
+    "id": "684.jpg",
+    "raw_output": "car, car, car, car, truck, traffic light red, traffic light red"
+  },
+  {
+    "id": "6863.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6869.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6872.jpg",
+    "raw_output": "speed bump"
+  },
+  {
+    "id": "6981.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "6992.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7011.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7021.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7032.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7064.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7088.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7109.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7141.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "715.jpg",
+    "raw_output": "car, car, car, car, car, truck, traffic light green"
+  },
+  {
+    "id": "7163.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7186.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7197.jpg",
+    "raw_output": "bus, traffic light red"
+  },
+  {
+    "id": "7208.jpg",
+    "raw_output": "bus, traffic light green"
+  },
+  {
+    "id": "7265.jpg",
+    "raw_output": "bus, traffic light green, traffic light red"
+  },
+  {
+    "id": "7284.jpg",
+    "raw_output": "bus, traffic light green, traffic light green"
+  },
+  {
+    "id": "7297.jpg",
+    "raw_output": "bus, traffic light red, traffic light green"
+  },
+  {
+    "id": "7312.jpg",
+    "raw_output": "bus, traffic light green, traffic light green"
+  },
+  {
+    "id": "7318.jpg",
+    "raw_output": "bus, traffic light green"
+  },
+  {
+    "id": "7356.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7371.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7388.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7399.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7411.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7426.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7442.jpg",
+    "raw_output": "bus, bus"
+  },
+  {
+    "id": "7461.jpg",
+    "raw_output": "bus, bus"
+  },
+  {
+    "id": "7475.jpg",
+    "raw_output": "bus, bus"
+  },
+  {
+    "id": "7496.jpg",
+    "raw_output": "bus, bus"
+  },
+  {
+    "id": "7523.jpg",
+    "raw_output": "bus, bus, speed bump"
+  },
+  {
+    "id": "7542.jpg",
+    "raw_output": "bus, bus, car, speed bump"
+  },
+  {
+    "id": "7561.jpg",
+    "raw_output": "bus, car"
+  },
+  {
+    "id": "7573.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "7579.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "7589.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "7594.jpg",
+    "raw_output": "car, car, bicycle"
+  },
+  {
+    "id": "7609.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "7622.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "7633.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7639.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "7645.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7651.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7658.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7665.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7679.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "7687.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7692.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7700.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7709.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7723.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7736.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7742.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "7760.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "7772.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "7779.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "7782.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "7802.jpg",
+    "raw_output": "car, car, traffic light red"
+  },
+  {
+    "id": "7805.jpg",
+    "raw_output": "car, car, traffic light red, traffic light red"
+  },
+  {
+    "id": "7815.jpg",
+    "raw_output": "car, car, traffic light red"
+  },
+  {
+    "id": "7833.jpg",
+    "raw_output": "car, car, car, traffic light red, traffic light red"
+  },
+  {
+    "id": "7845.jpg",
+    "raw_output": "car, car, traffic light red, traffic light red"
+  },
+  {
+    "id": "7853.jpg",
+    "raw_output": "car, car, car, traffic light red"
+  },
+  {
+    "id": "7861.jpg",
+    "raw_output": "car, car, car, traffic light red"
+  },
+  {
+    "id": "7870.jpg",
+    "raw_output": "car, car, car, traffic light red"
+  },
+  {
+    "id": "7883.jpg",
+    "raw_output": "car, car, traffic light red"
+  },
+  {
+    "id": "7893.jpg",
+    "raw_output": "car, car, truck, truck, traffic light red"
+  },
+  {
+    "id": "7903.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "7910.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "7919.jpg",
+    "raw_output": "car, pedestrian, pedestrian, traffic light red"
+  },
+  {
+    "id": "7926.jpg",
+    "raw_output": "pedestrian"
+  },
+  {
+    "id": "7934.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "7943.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "7952.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "7972.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "8009.jpg",
+    "raw_output": "truck, car, car"
+  },
+  {
+    "id": "801.jpg",
+    "raw_output": "car, car, truck, bicycle, traffic light green"
+  },
+  {
+    "id": "8030.jpg",
+    "raw_output": "truck, truck, car"
+  },
+  {
+    "id": "8047.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "833.jpg",
+    "raw_output": "car, car, traffic light green"
+  },
+  {
+    "id": "852.jpg",
+    "raw_output": "car, car, bus"
+  },
+  {
+    "id": "868.jpg",
+    "raw_output": "car, car, truck, traffic light red"
+  },
+  {
+    "id": "901.jpg",
+    "raw_output": "car, car, car, traffic light red"
+  },
+  {
+    "id": "948.jpg",
+    "raw_output": "car, car, car, traffic light red, traffic light red, traffic light red"
+  },
+  {
+    "id": "960.jpg",
+    "raw_output": "car, car, car, traffic light red, traffic light red, traffic light red"
+  },
+  {
+    "id": "97.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "985.jpg",
+    "raw_output": "car, car, car, traffic light green"
+  },
+  {
+    "id": "2358.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4051.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4098.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4162.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4332.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4390.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4447.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "4457.jpg",
+    "raw_output": "car, car, car, car, car"
+  },
+  {
+    "id": "4471.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4656.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4664.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4673.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "4751.jpg",
+    "raw_output": "I'm sorry, but I can't detect any relevant objects in this image based on the rules provided."
+  },
+  {
+    "id": "4770.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4788.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4809.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4848.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4874.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4893.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4899.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4909.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4917.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5269.jpg",
+    "raw_output": "speed bump"
+  },
+  {
+    "id": "5306.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5805.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5816.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5829.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5845.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5855.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5987.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6168.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "6200.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6205.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6224.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6235.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "6253.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6267.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6571.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6582.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6594.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6602.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6609.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6821.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6829.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6855.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6880.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6896.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6905.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6916.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6926.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6938.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6948.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6960.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6969.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "7001.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "7585.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "6843.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "6055.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "5577.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "4021.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "4074.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "2331.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "8049.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "8134.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8149.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "8220.jpg",
+    "raw_output": "speed bump"
+  },
+  {
+    "id": "8263.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8373.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "8478.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8517.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "8562.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "8684.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "8819.jpg",
+    "raw_output": "The image does not show any relevant objects from the predefined list."
+  },
+  {
+    "id": "8870.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "8894.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8908.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9006.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "9068.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "9131.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "9199.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "9246.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "9276.jpg",
+    "raw_output": "Empty"
+  },
+  {
+    "id": "9330.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "9351.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9374.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9381.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9459.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9479.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "9503.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9645.jpg",
+    "raw_output": "motorcycle, traffic light red"
+  },
+  {
+    "id": "9654.jpg",
+    "raw_output": "motorcycle, car, traffic light red"
+  },
+  {
+    "id": "9656.jpg",
+    "raw_output": "motorcycle, traffic light green"
+  },
+  {
+    "id": "9708.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "9822.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9853.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9878.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9917.jpg",
+    "raw_output": "traffic light red, speed bump"
+  },
+  {
+    "id": "9934.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "9956.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "9974.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "9982.jpg",
+    "raw_output": "traffic light red, traffic light red"
+  },
+  {
+    "id": "10014.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "10037.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "10067.jpg",
+    "raw_output": "traffic light red, traffic light red"
+  },
+  {
+    "id": "10084.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "10106.jpg",
+    "raw_output": "traffic light red, car"
+  },
+  {
+    "id": "10144.jpg",
+    "raw_output": "traffic light red, traffic light red, car"
+  },
+  {
+    "id": "10210.jpg",
+    "raw_output": "traffic light red, traffic light red"
+  },
+  {
+    "id": "10247.jpg",
+    "raw_output": "motorcycle, motorcycle, truck"
+  },
+  {
+    "id": "10288.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10303.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "10351.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "10375.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10444.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "10468.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "10521.jpg",
+    "raw_output": "speed bump"
+  },
+  {
+    "id": "10580.jpg",
+    "raw_output": "traffic light red, traffic light red"
+  },
+  {
+    "id": "10615.jpg",
+    "raw_output": "traffic light red, traffic light red, traffic light red"
+  },
+  {
+    "id": "10635.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "10660.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "10689.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10727.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10806.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "10861.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "10920.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "10986.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "11003.jpg",
+    "raw_output": "(empty output)"
+  },
+  {
+    "id": "11087.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11134.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "11177.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "11228.jpg",
+    "raw_output": "traffic light yellow"
+  },
+  {
+    "id": "11272.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "11301.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "11319.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "11330.jpg",
+    "raw_output": "car, bus"
+  },
+  {
+    "id": "11363.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11364.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "11398.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11428.jpg",
+    "raw_output": "truck, pedestrian"
+  },
+  {
+    "id": "11445.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "11521.jpg",
+    "raw_output": "car, car, car, truck, traffic light green"
+  },
+  {
+    "id": "11552.jpg",
+    "raw_output": "truck, car, car, car, traffic light green"
+  },
+  {
+    "id": "11553.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "11580.jpg",
+    "raw_output": "truck, truck, car"
+  },
+  {
+    "id": "11608.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "11634.jpg",
+    "raw_output": "car, truck, truck"
+  },
+  {
+    "id": "11652.jpg",
+    "raw_output": "truck, truck, car"
+  },
+  {
+    "id": "11660.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "11709.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11747.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11752.jpg",
+    "raw_output": "car, car, car, car"
+  },
+  {
+    "id": "11776.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "11794.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "11840.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11872.jpg",
+    "raw_output": "car, motorcycle"
+  },
+  {
+    "id": "11908.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11941.jpg",
+    "raw_output": "truck, traffic light green"
+  },
+  {
+    "id": "11961.jpg",
+    "raw_output": "truck, traffic light green"
+  },
+  {
+    "id": "11980.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "12000.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "12031.jpg",
+    "raw_output": "car, car, truck, traffic light red"
+  },
+  {
+    "id": "12082.jpg",
+    "raw_output": "car, truck, traffic light red, traffic light red, traffic light red"
+  },
+  {
+    "id": "12098.jpg",
+    "raw_output": "car, truck, traffic light red"
+  },
+  {
+    "id": "12121.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "12122.jpg",
+    "raw_output": "car, traffic light green"
+  },
+  {
+    "id": "12138.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "12176.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "12189.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "12221.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "12254.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "12273.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "12318.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "12326.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "12411.jpg",
+    "raw_output": "car, car, car, pedestrian, pedestrian, pedestrian, traffic light red"
+  },
+  {
+    "id": "12445.jpg",
+    "raw_output": "car, car, truck, motorcycle, pedestrian, pedestrian, traffic light green, traffic light red, traffic light red"
+  },
+  {
+    "id": "12509.jpg",
+    "raw_output": "car, car, car, traffic light green, traffic light red, traffic light red"
+  },
+  {
+    "id": "12521.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "12564.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "12592.jpg",
+    "raw_output": "bicycle"
+  },
+  {
+    "id": "12636.jpg",
+    "raw_output": "bicycle"
+  },
+  {
+    "id": "12681.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "12701.jpg",
+    "raw_output": "car, car, motorcycle, motorcycle"
+  },
+  {
+    "id": "12794.jpg",
+    "raw_output": "car, motorcycle, speed bump"
+  },
+  {
+    "id": "12843.jpg",
+    "raw_output": "car, bus, motorcycle"
+  },
+  {
+    "id": "12900.jpg",
+    "raw_output": "car, traffic light green, traffic light green"
+  },
+  {
+    "id": "12944.jpg",
+    "raw_output": "car, traffic light red, traffic light red"
+  },
+  {
+    "id": "13013.jpg",
+    "raw_output": "car, traffic light green"
+  },
+  {
+    "id": "13065.jpg",
+    "raw_output": "car, car, traffic light red"
+  },
+  {
+    "id": "13088.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13144.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13221.jpg",
+    "raw_output": "car, traffic light green"
+  },
+  {
+    "id": "13239.jpg",
+    "raw_output": "traffic light red, traffic light green"
+  },
+  {
+    "id": "13265.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "13274.jpg",
+    "raw_output": "pedestrian"
+  },
+  {
+    "id": "13314.jpg",
+    "raw_output": "truck, traffic light green"
+  },
+  {
+    "id": "13337.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "13361.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "13395.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13429.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13444.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13472.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "13515.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13566.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "13641.jpg",
+    "raw_output": "car, car, car, van"
+  },
+  {
+    "id": "13642.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13667.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13723.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "13802.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13841.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "13904.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14026.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "14083.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14207.jpg",
+    "raw_output": "car, car, car, traffic light green"
+  },
+  {
+    "id": "14220.jpg",
+    "raw_output": "car, car, car, car, car, traffic light green"
+  },
+  {
+    "id": "14247.jpg",
+    "raw_output": "car, car, car, traffic light green"
+  },
+  {
+    "id": "14273.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "14306.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "14333.jpg",
+    "raw_output": "car, car, car, car"
+  },
+  {
+    "id": "14361.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "14397.jpg",
+    "raw_output": "car, traffic light green"
+  },
+  {
+    "id": "14418.jpg",
+    "raw_output": "car, traffic light red, traffic light green"
+  },
+  {
+    "id": "14430.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "14442.jpg",
+    "raw_output": "truck, car, car, car"
+  },
+  {
+    "id": "14454.jpg",
+    "raw_output": "truck, truck, truck, truck, car"
+  },
+  {
+    "id": "14481.jpg",
+    "raw_output": "truck, truck, truck, car"
+  },
+  {
+    "id": "14526.jpg",
+    "raw_output": "truck, truck, truck, truck, truck"
+  },
+  {
+    "id": "14550.jpg",
+    "raw_output": "truck, truck, truck, car"
+  },
+  {
+    "id": "14571.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "14621.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "14642.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "14686.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "14698.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "14722.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "14775.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14776.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14777.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14841.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "14879.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "14897.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14919.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14936.jpg",
+    "raw_output": "(There are no detectable relevant objects at road level in the image provided, so the response will be empty.)"
+  },
+  {
+    "id": "14966.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "14993.jpg",
+    "raw_output": "car, car, bus"
+  },
+  {
+    "id": "15020.jpg",
+    "raw_output": "car, bus, truck, traffic light green"
+  },
+  {
+    "id": "15039.jpg",
+    "raw_output": "traffic light green, traffic light red, traffic light red"
+  },
+  {
+    "id": "15056.jpg",
+    "raw_output": "car, traffic light green"
+  },
+  {
+    "id": "15087.jpg",
+    "raw_output": "car, traffic light green"
+  },
+  {
+    "id": "15118.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "15137.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "15150.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "15171.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "15201.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "15259.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "15306.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "15344.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "15346.jpg",
+    "raw_output": "car, truck, traffic light red"
+  },
+  {
+    "id": "15412.jpg",
+    "raw_output": "car, bicycle, traffic light red"
+  },
+  {
+    "id": "15522.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "15641.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "15729.jpg",
+    "raw_output": "truck, car, car, car, traffic light green"
+  },
+  {
+    "id": "15837.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "16058.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "16077.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "12887.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "8078.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "8145.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "8175.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "8192.jpg",
+    "raw_output": "speed bump"
+  },
+  {
+    "id": "8213.jpg",
+    "raw_output": "speed bump"
+  },
+  {
+    "id": "8259.jpg",
+    "raw_output": "pedestrian"
+  },
+  {
+    "id": "8278.jpg",
+    "raw_output": "pedestrian"
+  },
+  {
+    "id": "8293.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "8318.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "8357.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8425.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8437.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8460.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8480.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8607.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "8675.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "8704.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "8731.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "8751.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "8816.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8839.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "8925.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9039.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "9087.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "9101.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9167.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "9235.jpg",
+    "raw_output": "There are no relevant objects visible in this image."
+  },
+  {
+    "id": "9285.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "9327.jpg",
+    "raw_output": "pedestrian"
+  },
+  {
+    "id": "9365.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9415.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "9492.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "9509.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9554.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "9609.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "9664.jpg",
+    "raw_output": "motorcycle, traffic light red"
+  },
+  {
+    "id": "9711.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "9733.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "9857.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "10031.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "10049.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "10218.jpg",
+    "raw_output": "traffic light red, traffic light red"
+  },
+  {
+    "id": "10225.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10250.jpg",
+    "raw_output": "motorcycle, motorcycle, truck"
+  },
+  {
+    "id": "10294.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "10320.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10332.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10370.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10433.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "10465.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "10478.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "10519.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10599.jpg",
+    "raw_output": "traffic light red, traffic light red, traffic light red"
+  },
+  {
+    "id": "10655.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10670.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "10759.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10797.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10854.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "10890.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "10924.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "11029.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "11082.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11125.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "11173.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "11195.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "11222.jpg",
+    "raw_output": "car, speed bump"
+  },
+  {
+    "id": "11347.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "11457.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "11473.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "11633.jpg",
+    "raw_output": "truck, truck, car"
+  },
+  {
+    "id": "11667.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "11677.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11697.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11714.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11743.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11766.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "11788.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "11807.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11822.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11847.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11865.jpg",
+    "raw_output": "car, motorcycle"
+  },
+  {
+    "id": "11876.jpg",
+    "raw_output": "car, motorcycle"
+  },
+  {
+    "id": "11898.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11923.jpg",
+    "raw_output": "car, speed bump"
+  },
+  {
+    "id": "11957.jpg",
+    "raw_output": "truck, traffic light green"
+  },
+  {
+    "id": "11972.jpg",
+    "raw_output": "traffic light green, traffic light red, truck"
+  },
+  {
+    "id": "11985.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "12094.jpg",
+    "raw_output": "car, car, truck, traffic light red"
+  },
+  {
+    "id": "12167.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "12183.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "12202.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "12249.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "12365.jpg",
+    "raw_output": "car, car, traffic light red, traffic light red"
+  },
+  {
+    "id": "12409.jpg",
+    "raw_output": "car, car, car, pedestrian, pedestrian, traffic light red"
+  },
+  {
+    "id": "12453.jpg",
+    "raw_output": "car, truck, pedestrian, pedestrian, traffic light red"
+  },
+  {
+    "id": "12465.jpg",
+    "raw_output": "truck, car, car, traffic light green"
+  },
+  {
+    "id": "12468.jpg",
+    "raw_output": "car, car, truck, pedestrian, pedestrian, pedestrian, pedestrian, pedestrian, traffic light red, traffic light green"
+  },
+  {
+    "id": "12499.jpg",
+    "raw_output": "car, car, car, truck, traffic light green"
+  },
+  {
+    "id": "12518.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "12541.jpg",
+    "raw_output": "truck, speed bump"
+  },
+  {
+    "id": "12577.jpg",
+    "raw_output": "truck, speed bump"
+  },
+  {
+    "id": "12585.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "12618.jpg",
+    "raw_output": "bicycle"
+  },
+  {
+    "id": "12647.jpg",
+    "raw_output": "Empty output."
+  },
+  {
+    "id": "12673.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "12699.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "12744.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "12758.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "12779.jpg",
+    "raw_output": "car, speed bump"
+  },
+  {
+    "id": "12821.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "12832.jpg",
+    "raw_output": "car, car, motorcycle, bus"
+  },
+  {
+    "id": "12876.jpg",
+    "raw_output": "motorcycle, car, truck"
+  },
+  {
+    "id": "12997.jpg",
+    "raw_output": "car, traffic light red, traffic light red, traffic light yellow"
+  },
+  {
+    "id": "13005.jpg",
+    "raw_output": "car, car, traffic light red, traffic light green"
+  },
+  {
+    "id": "13021.jpg",
+    "raw_output": "car, traffic light red, traffic light green"
+  },
+  {
+    "id": "13056.jpg",
+    "raw_output": "traffic light red, traffic light red"
+  },
+  {
+    "id": "13077.jpg",
+    "raw_output": "bicycle"
+  },
+  {
+    "id": "13081.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13095.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "13134.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13162.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "13195.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "13219.jpg",
+    "raw_output": "car, car, traffic light red, traffic light red, traffic light red"
+  },
+  {
+    "id": "13257.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "13296.jpg",
+    "raw_output": "pedestrian"
+  },
+  {
+    "id": "13313.jpg",
+    "raw_output": "truck, traffic light green"
+  },
+  {
+    "id": "13330.jpg",
+    "raw_output": "truck, traffic light green"
+  },
+  {
+    "id": "13354.jpg",
+    "raw_output": "traffic light green, traffic light red"
+  },
+  {
+    "id": "13367.jpg",
+    "raw_output": "traffic light green, traffic light red"
+  },
+  {
+    "id": "13386.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13439.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "13467.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "13484.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13493.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13540.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13576.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13592.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13602.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "13678.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "13746.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "13789.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13827.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13851.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "13858.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13883.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13967.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14050.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "14055.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14103.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "14112.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "14135.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14151.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "14206.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "14296.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "14326.jpg",
+    "raw_output": "car, car, car, car, car"
+  },
+  {
+    "id": "14394.jpg",
+    "raw_output": "car, car, car, car"
+  },
+  {
+    "id": "14407.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14552.jpg",
+    "raw_output": "truck, truck, truck"
+  },
+  {
+    "id": "14564.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "14580.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "14590.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "14605.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "14667.jpg",
+    "raw_output": "bus, bus"
+  },
+  {
+    "id": "14710.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "14735.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "14752.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14781.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14792.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14822.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "14882.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "14916.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14931.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "14973.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "14994.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "15012.jpg",
+    "raw_output": "car, bus, traffic light green"
+  },
+  {
+    "id": "15033.jpg",
+    "raw_output": "car, truck, traffic light green"
+  },
+  {
+    "id": "15065.jpg",
+    "raw_output": "car, traffic light green, traffic light green"
+  },
+  {
+    "id": "15070.jpg",
+    "raw_output": "car, traffic light green, traffic light green"
+  },
+  {
+    "id": "15081.jpg",
+    "raw_output": "car, car, traffic light green"
+  },
+  {
+    "id": "15088.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "15096.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "15109.jpg",
+    "raw_output": "car, motorcycle"
+  },
+  {
+    "id": "15123.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "15153.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "15182.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "15187.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "15194.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "15209.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "15254.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "15301.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "15334.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "15399.jpg",
+    "raw_output": "car, car, bus, bicycle, pedestrian"
+  },
+  {
+    "id": "15435.jpg",
+    "raw_output": "car, bus, pedestrian, pedestrian, traffic light red"
+  },
+  {
+    "id": "15480.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "15578.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "15617.jpg",
+    "raw_output": "car, traffic light red"
+  },
+  {
+    "id": "15640.jpg",
+    "raw_output": "car, car, traffic light green"
+  },
+  {
+    "id": "15724.jpg",
+    "raw_output": "car, car, traffic light red"
+  },
+  {
+    "id": "15725.jpg",
+    "raw_output": "truck, car, car, traffic light green"
+  },
+  {
+    "id": "15788.jpg",
+    "raw_output": "car, traffic light green"
+  },
+  {
+    "id": "15804.jpg",
+    "raw_output": "car, truck, traffic light green"
+  },
+  {
+    "id": "15833.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "15904.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "15910.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "15939.jpg",
+    "raw_output": "car, speed bump"
+  },
+  {
+    "id": "15954.jpg",
+    "raw_output": "car, speed bump"
+  },
+  {
+    "id": "16006.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "16018.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "16057.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "16070.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16080.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16094.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14694.jpg",
+    "raw_output": "truck, truck"
+  },
+  {
+    "id": "14657.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "14648.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "14631.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "14587.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "14517.jpg",
+    "raw_output": "truck, truck, truck, truck, truck"
+  },
+  {
+    "id": "14501.jpg",
+    "raw_output": "truck, truck, truck"
+  },
+  {
+    "id": "14402.jpg",
+    "raw_output": "car, traffic light red, traffic light green"
+  },
+  {
+    "id": "14195.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "14130.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14122.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "14106.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "14100.jpg",
+    "raw_output": "car, bus"
+  },
+  {
+    "id": "14070.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14046.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "14039.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "13995.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "13950.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13866.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13792.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13774.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13754.jpg",
+    "raw_output": "motorcycle, car"
+  },
+  {
+    "id": "13644.jpg",
+    "raw_output": "(car, truck)"
+  },
+  {
+    "id": "13614.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "13596.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13587.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "13477.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13464.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13459.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "13393.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "13374.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "13246.jpg",
+    "raw_output": "traffic light green"
+  },
+  {
+    "id": "13123.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "12679.jpg",
+    "raw_output": "traffic light yellow"
+  },
+  {
+    "id": "12659.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "12555.jpg",
+    "raw_output": "truck, speed bump"
+  },
+  {
+    "id": "12528.jpg",
+    "raw_output": "car, car, truck, speed bump"
+  },
+  {
+    "id": "12285.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "12280.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "12235.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "12194.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "12146.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "11982.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "11853.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11721.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "11645.jpg",
+    "raw_output": "truck, car"
+  },
+  {
+    "id": "11567.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "11449.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "11336.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "11307.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "11292.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "11282.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "11257.jpg",
+    "raw_output": "car, truck, motorcycle"
+  },
+  {
+    "id": "11139.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "11147.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "11072.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "11065.jpg",
+    "raw_output": "truck"
+  },
+  {
+    "id": "11007.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10987.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10952.jpg",
+    "raw_output": "bus"
+  },
+  {
+    "id": "10837.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "10826.jpg",
+    "raw_output": "speed bump"
+  },
+  {
+    "id": "10813.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "10769.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10741.jpg",
+    "raw_output": "I don't see any relevant objects."
+  },
+  {
+    "id": "10710.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10642.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "10637.jpg",
+    "raw_output": "traffic light red"
+  },
+  {
+    "id": "10543.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10499.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10424.jpg",
+    "raw_output": "car, truck"
+  },
+  {
+    "id": "10391.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "10236.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "9650.jpg",
+    "raw_output": "motorcycle, traffic light red"
+  },
+  {
+    "id": "9647.jpg",
+    "raw_output": "motorcycle, traffic light red"
+  },
+  {
+    "id": "9636.jpg",
+    "raw_output": "motorcycle, traffic light red"
+  },
+  {
+    "id": "9635.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "9630.jpg",
+    "raw_output": "motorcycle, traffic light red"
+  },
+  {
+    "id": "9618.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "9572.jpg",
+    "raw_output": "motorcycle"
+  },
+  {
+    "id": "9525.jpg",
+    "raw_output": "(Blank response)"
+  },
+  {
+    "id": "9510.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "9466.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "9474.jpg",
+    "raw_output": "car, car"
+  },
+  {
+    "id": "9446.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "8768.jpg",
+    "raw_output": ""
+  },
+  {
+    "id": "16096.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16106.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "16122.jpg",
+    "raw_output": "car, car, car, car, car"
+  },
+  {
+    "id": "16133.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16146.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16159.jpg",
+    "raw_output": "car, car, car"
+  },
+  {
+    "id": "16189.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16202.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16231.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16251.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16270.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16301.jpg",
+    "raw_output": "car, car, truck, traffic light green"
+  },
+  {
+    "id": "16325.jpg",
+    "raw_output": "car, car, car, truck, traffic light red"
+  },
+  {
+    "id": "16342.jpg",
+    "raw_output": "car, truck, traffic light red"
+  },
+  {
+    "id": "16366.jpg",
+    "raw_output": "car, car, truck"
+  },
+  {
+    "id": "16395.jpg",
+    "raw_output": "car"
+  },
+  {
+    "id": "16429.jpg",
+    "raw_output": "car, car, car, car, car, bus"
+  },
+  {
+    "id": "16448.jpg",
+    "raw_output": "car, bus, car"
+  },
+  {
+    "id": "16467.jpg",
+    "raw_output": "car, motorcycle"
+  },
+  {
+    "id": "16496.jpg",
+    "raw_output": "car, car, bus, traffic light green"
+  },
+  {
+    "id": "16514.jpg",
+    "raw_output": "car, car, bus, traffic light green"
+  },
+  {
+    "id": "16544.jpg",
+    "raw_output": "car, car, bus, traffic light green"
+  },
+  {
+    "id": "16601.jpg",
+    "raw_output": "motorcycle, traffic light green"
+  },
+  {
+    "id": "16625.jpg",
+    "raw_output": "motorcycle, traffic light green"
+  },
+  {
+    "id": "16661.jpg",
+    "raw_output": "car, car, car, car, bus, traffic light green"
+  },
+  {
+    "id": "16678.jpg",
+    "raw_output": "car, car, car, car, traffic light green"
+  }
+]
