@@ -145,10 +145,10 @@ obtained copies remain subject to the
 the applicable Creative Commons license. See [DATA_LICENSE.md](DATA_LICENSE.md)
 for attribution and reuse information.
 
-No license has yet been assigned to the authors' source code or original
-annotations. Public availability alone does not grant permission to reuse those
-materials; add an explicit software/content license before publication if reuse
-is intended.
+The authors' source code and original repository materials are licensed under
+the [GNU General Public License v3.0](LICENSE). This license does not apply to
+the nuScenes images or other third-party materials, which remain subject to
+their respective terms and licenses.
 
 ## Citation
 
